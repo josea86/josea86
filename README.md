@@ -1,6 +1,6 @@
 # Hi, I'm José Ángel 👋 
 
-### 🚀 Student of Multi-platform Application Development (DAM) | Linux & Systems Enthusiast
+### 🚀 Software Engineering Student | Linux & Systems Enthusiast
 
 I am a career changer transitioning from over a decade in the healthcare sector (Optometry) to the world of software development and systems administration. My focus is on building robust, secure, and efficient solutions while leveraging my strong analytical background.
 
