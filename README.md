@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm José Ángel 👋 
 
-<!--
-**josea86/josea86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Student of Multi-platform Application Development (DAM) | Linux & Systems Enthusiast
 
-Here are some ideas to get you started:
+I am a career changer transitioning from over a decade in the healthcare sector (Optometry) to the world of software development and systems administration. My focus is on building robust, secure, and efficient solutions while leveraging my strong analytical background.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Technical Stack & Tools
+
+- **Languages:** Java, Python, C.
+- **Databases:** MySQL, MariaDB, MongoDB.
+- **Systems:** Advanced Linux user (currently running **Debian Trixie**).
+- **Network & Security:** Experience configuring home server environments with **Pi-hole** and **Unbound** for recursive DNS and network-wide filtering.
+- **Currently Learning:** Advanced Java patterns and Backend architecture at **Institut Obert de Catalunya (IOC)**.
+
+---
+
+### 📁 Featured Projects (DAM - IOC)
+
+- **[Python Crash Course](https://github.com/josea86/Python-Crash-Course):** A collection of exercises, examples, and small projects I'm building while working through the book "Python Crash Course" by Eric Matthes.
+
+---
+
+### 🗣️ Languages
+
+- **Spanish:** Native.
+- **English:** Technical proficiency.
+- **Catalan:** Professional proficiency.
+- **Italian:** Learning.
+
+---
+
+### 📫 Connect with me:
+
+- **LinkedIn:** [José Ángel Morales Martínez](https://www.linkedin.com/in/jose-angel-morales-martinez-55931434/)
+- **Location:** Barcelona, Spain.
+
+---
+
+*“The best way to predict the future is to invent it.”* 💻
