@@ -38,4 +38,4 @@ I am a career changer transitioning from over a decade in the healthcare sector 
 
 ---
 
-*“The best way to predict the future is to invent it.”* 💻
+*“Sharing is good, and with digital technology, sharing is easy.”* 💻
