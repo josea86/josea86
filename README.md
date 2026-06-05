@@ -19,6 +19,7 @@ I am a career changer transitioning from over a decade in the healthcare sector 
 ### 📁 Featured Projects (DAM - IOC)
 
 - **[Python Crash Course](https://github.com/josea86/Python-Crash-Course):** A collection of exercises, examples, and small projects I'm building while working through the book "Python Crash Course" by Eric Matthes.
+- **[facetimehd-macbook-2014-fix](https://github.com/josea86/facetimehd-macbook-2014-fix):** Bash script to automate Boot Camp firmware download, sensor calibration and compilation of the facetimehd driver on Debian systems.
 
 ---
 
